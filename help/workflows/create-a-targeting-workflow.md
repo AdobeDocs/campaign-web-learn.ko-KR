@@ -1,5 +1,5 @@
 ---
-title: 타기팅 워크플로우 만들기
+title: 타겟팅 워크플로우 만들기
 description: 워크플로우의 작동 방식과 타겟팅 워크플로우를 만드는 방법을 이해합니다.
 feature: Workflows
 role: User
@@ -8,15 +8,15 @@ doc-type: Feature Video
 duration: 763
 last-substantial-update: 2024-02-28T00:00:00Z
 jira: KT-14393
-source-git-commit: 6ae7ba123510d6dc2dbf67561b5b0b2e87823592
+exl-id: fa2ca5cd-decd-4360-86fc-412b06fae18a
+source-git-commit: a20bff7850298b1a280435a369b5a9494bc2eb27
 workflow-type: tm+mt
 source-wordcount: '41'
 ht-degree: 43%
 
 ---
 
-
-# 타기팅 워크플로우 만들기
+# 타겟팅 워크플로우 만들기
 
 워크플로우의 작동 방식과 타겟팅 워크플로우를 만드는 방법을 이해합니다.
 
