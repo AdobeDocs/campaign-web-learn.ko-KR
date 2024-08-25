@@ -7,8 +7,8 @@ breadcrumb-title: Web 사용자 인터페이스 - 튜토리얼
 auto-video-transcripts: true
 source-git-commit: b99644fbf167da31382a931a2b0a3073f132a527
 workflow-type: tm+mt
-source-wordcount: '129'
-ht-degree: 90%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -18,7 +18,7 @@ ht-degree: 90%
 + [Adobe Campaign Web 사용자 인터페이스 튜토리얼](/help/ac-web-learn-main/overview.md)
 + 시작 {#getting-started}
    + [Campaign Web 사용자 인터페이스](/help/get-started/explore-the-web-ui.md)
-   + [Campaign Standard에서 마이그레이션한 후 Adobe Campaign v8 시작](https://experienceleague.adobe.com/docs/campaign-learn/get-started-with-campaign-v8/overview.html)
+   + [Campaign Standard에서 마이그레이션한 후 Adobe Campaign v8 시작](https://experienceleague.adobe.com/docs/campaign-learn/get-started-with-campaign-v8/overview.html?lang=ko)
 + 메시지 및 게재 {#messages-and-deliveries}
    + [이메일 게재 만들기](/help/deliveries/create-an-email-delivery.md)
    + [이메일 콘텐츠 처음부터 만들기](/help/design-the-delivery/create-email-content-from-scratch.md)
@@ -29,8 +29,8 @@ ht-degree: 90%
    + [프로필 탐색](/help/profiles-and-audiences/explore-profiles.md)
    + [대상자 관리 및 작성](/help/profiles-and-audiences/manage-and-build-audiences.md)
    + [Experience Platform으로 대상자 만들기](/help/profiles-and-audiences/create-an-audience-with-experience-platform.md)
-+ 워크플로우 {#workflows}
-   + [타겟팅 워크플로우 만들기](/help/workflows/create-a-targeting-workflow.md)
++ 워크플로 {#workflows}
+   + [타겟팅 워크플로 만들기](/help/workflows/create-a-targeting-workflow.md)
 + Experience League 라이브 녹화본 {#exl-live-recordings}
    + [새로운 Adobe Campaign Web 사용자 인터페이스의 발전](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-02-29-24.html?lang=ko){target="_blank"}
 + [Campaign 클라이언트 콘솔 튜토리얼](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/overview.html?lang=ko){target="_blank"}
