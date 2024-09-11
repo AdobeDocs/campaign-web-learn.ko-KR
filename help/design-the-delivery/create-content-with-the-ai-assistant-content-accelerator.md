@@ -5,21 +5,21 @@ feature: Email Design
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Feature Video
-duration: 235
+duration: 206
 last-substantial-update: 2024-09-11T00:00:00Z
 jira: KT-16191
-hidefromtoc: true
-hide: true
-source-git-commit: 2950e226ad832e2f6becf487c52fe05d6816a90c
+hidefromtoc: false
+hide: false
+source-git-commit: 002cf5bcd434b5ead21c4359c64e6057619589bd
 workflow-type: tm+mt
-source-wordcount: '76'
+source-wordcount: '78'
 ht-degree: 0%
 
 ---
 
 
-# Journey Optimizer - Content Accelerator에서 AI Assistant를 사용하여 콘텐츠 만들기
+# Campaign - Content Accelerator에서 AI Assistant를 사용하여 콘텐츠 만들기
 
-[!DNL Adobe Journey Optimizer - Content Accelerator]에서 AI Assistant를 사용하여 실시간 1:1에 대한 채널 인식 콘텐츠 및 타겟 대상자와 공감하는 일괄 캠페인을 생성하는 방법에 대해 알아봅니다.
+Campaign - Content Accelerator의 AI Assistant를 사용하여 실시간 1:1에 대한 채널 인식 콘텐츠 및 타겟 대상자와 공감하는 일괄 캠페인을 생성하는 방법에 대해 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3433552/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3433569/?learn=on)
