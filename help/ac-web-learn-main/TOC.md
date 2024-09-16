@@ -5,10 +5,10 @@ user-guide-title: Adobe Campaign Web 사용자 인터페이스
 user-guide-description: Adobe Campaign Web 사용자 인터페이스의 기능을 사용하는 방법을 알아봅니다.
 breadcrumb-title: Web 사용자 인터페이스 - 튜토리얼
 auto-video-transcripts: true
-source-git-commit: 5de2884c7673b3bc3b37392aabb7cb9c2b01b6a4
+source-git-commit: 39bb7a2ee3e2605192eaadf46d27fc883f2c2643
 workflow-type: tm+mt
-source-wordcount: '144'
-ht-degree: 93%
+source-wordcount: '138'
+ht-degree: 88%
 
 ---
 
@@ -17,8 +17,8 @@ ht-degree: 93%
 
 + [Adobe Campaign Web 사용자 인터페이스 튜토리얼](/help/ac-web-learn-main/overview.md)
 + 시작 {#getting-started}
+   + [Adobe Campaign v8 채택 안내서](https://experienceleague.adobe.com/en/docs/campaign-web/acs-to-ac/home)
    + [Campaign Web 사용자 인터페이스](/help/get-started/explore-the-web-ui.md)
-   + [Campaign Standard에서 마이그레이션한 후 Adobe Campaign v8 시작](https://experienceleague.adobe.com/docs/campaign-learn/get-started-with-campaign-v8/overview.html?lang=ko)
 + 메시지 및 게재 {#messages-and-deliveries}
    + [이메일 게재 만들기](/help/deliveries/create-an-email-delivery.md)
    + [이메일 콘텐츠 처음부터 만들기](/help/design-the-delivery/create-email-content-from-scratch.md)
