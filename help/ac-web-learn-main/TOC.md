@@ -8,7 +8,7 @@ auto-video-transcripts: true
 source-git-commit: 39bb7a2ee3e2605192eaadf46d27fc883f2c2643
 workflow-type: tm+mt
 source-wordcount: '138'
-ht-degree: 88%
+ht-degree: 95%
 
 ---
 
@@ -23,10 +23,10 @@ ht-degree: 88%
    + [이메일 게재 만들기](/help/deliveries/create-an-email-delivery.md)
    + [이메일 콘텐츠 처음부터 만들기](/help/design-the-delivery/create-email-content-from-scratch.md)
    + [HTML을 업로드하여 이메일 만들기](/help/design-the-delivery/create-an-email-by-uploading-html.md)
-   + [콘텐츠 도우미로 이메일 콘텐츠를 만들고 개선하기](/help/design-the-delivery/create-and-improve-email-content-with-the-content-assistant.md)
-   + [Campaign - Content Accelerator에서 AI Assistant를 사용하여 콘텐츠 만들기](/help/design-the-delivery/create-content-with-the-ai-assistant-content-accelerator.md)
-   + [이메일 게재 미리 보기 및 전송](/help/deliveries/preview-and-proof-an-email-delivery.md)
-   + [DM 게재 만들기](/help/design-the-delivery/create-a-direct-mail-delivery.md)
+   + [콘텐츠 어시스턴트로 이메일 콘텐츠를 만들고 개선하기](/help/design-the-delivery/create-and-improve-email-content-with-the-content-assistant.md)
+   + [Campaign - Content Accelerator의 AI 어시스턴트로 콘텐츠 만들기](/help/design-the-delivery/create-content-with-the-ai-assistant-content-accelerator.md)
+   + [이메일 게재 미리 보기 및 교정](/help/deliveries/preview-and-proof-an-email-delivery.md)
+   + [다이렉트 메일 게재 만들기](/help/design-the-delivery/create-a-direct-mail-delivery.md)
 + 프로필 및 대상자 {#profiles-and-audiences}
    + [프로필 탐색](/help/profiles-and-audiences/explore-profiles.md)
    + [대상자 관리 및 작성](/help/profiles-and-audiences/manage-and-build-audiences.md)
