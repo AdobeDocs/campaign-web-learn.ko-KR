@@ -10,9 +10,9 @@ last-substantial-update: 2024-02-13T00:00:00Z
 jira: KT-14395
 exl-id: a10e4d21-9c84-447c-9414-77aa307d0bff
 source-git-commit: 311ef614c2256ec5faea0a6b1f12fa212a979da9
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '98'
-ht-degree: 70%
+ht-degree: 100%
 
 ---
 
@@ -24,6 +24,6 @@ ht-degree: 70%
 
 >[!NOTE]
 >
->Assets 메뉴에 대한 액세스는 활성 Adobe Experience Essentials 라이선스가 있는 사용자로 제한됩니다. 이 라이선스를 보유하고 있지 않으면 Assets 메뉴를 사용할 수 없습니다.
+>자산 메뉴에 대한 액세스 권한은 활성화된 Adobe Experience Essentials 라이선스를 보유한 사용자로 제한됩니다. 이 라이선스가 없으면 자산 메뉴를 사용할 수 없습니다.
 
 이 기능에 대한 자세한 내용은 [제품 설명서](https://experienceleague.adobe.com/docs/campaign-web/v8/msg/email/create-email.html?lang=ko)를 참조하십시오.
