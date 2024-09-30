@@ -6,7 +6,7 @@ role: User, Admin, Developer
 recommendations: noDisplay, noCatalog
 level: Beginner, Intermediate, Experienced
 exl-id: 866568a7-0763-43f9-af75-0c6d70ea082a
-source-git-commit: 0d61de1f116d1ee98abbb1e120a8a4d09db7ed4f
+source-git-commit: 6104839cdc0007219afecfd651bb55edf1aff3e2
 workflow-type: tm+mt
 source-wordcount: '305'
 ht-degree: 88%
@@ -26,6 +26,7 @@ Adobe Campaign은 크로스채널 고객 경험을 디자인할 수 있는 플�
 >
 > 이 튜토리얼은 원하던 답변이 아닌가요?
 > Campaign 콘솔에 대한 안내는
+> 
 > * [Campaign 클라이언트 콘솔 튜토리얼](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/overview.html?lang=ko){target="_blank"}을 참조하세요.
 > * Campaign Web 사용자 인터페이스에 대한 자세한 내용은 [Adobe Campaign Web 설명서](https://experienceleague.adobe.com/docs/campaign-web/v8/campaign-web-home.html?lang=ko){target="_blank"}를 참조하세요.
 
