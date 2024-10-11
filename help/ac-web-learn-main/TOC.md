@@ -6,9 +6,9 @@ user-guide-description: Adobe Campaign Web 사용자 인터페이스의 기능�
 breadcrumb-title: Web 사용자 인터페이스 - 튜토리얼
 auto-video-transcripts: true
 source-git-commit: 6104839cdc0007219afecfd651bb55edf1aff3e2
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '154'
-ht-degree: 85%
+ht-degree: 100%
 
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 85%
 
 + [Adobe Campaign Web 사용자 인터페이스 튜토리얼](/help/ac-web-learn-main/overview.md)
 + 시작 {#getting-started}
-   + [Adobe Campaign v8 채택 안내서](https://experienceleague.adobe.com/en/docs/campaign-web/acs-to-ac/home)
+   + [Adobe Campaign v8 채택 안내서](https://experienceleague.adobe.com/ko/docs/campaign-web/acs-to-ac/home)
    + [Campaign Web 사용자 인터페이스](/help/get-started/explore-the-web-ui.md)
 + 메시지 및 게재 {#messages-and-deliveries}
    + [이메일 게재 만들기](/help/deliveries/create-an-email-delivery.md)
@@ -35,5 +35,5 @@ ht-degree: 85%
    + [타겟팅 워크플로 만들기](/help/workflows/create-a-targeting-workflow.md)
 + Experience League 라이브 녹화본 {#exl-live-recordings}
    + [새로운 Adobe Campaign Web 사용자 인터페이스의 발전](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-02-29-24.html?lang=ko){target="_blank"}
-+ [Campaign 클라이언트 콘솔 튜토리얼](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/overview.html?lang=ko){target="_blank"}
-+ [AI Bash - Adobe Experience Platform 애플리케이션 및 캠페인에서 AI Assistant의 기능 해제](https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-09-26-24)
++ [Campaign 클라이언트 콘솔 튜토리얼](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/overview.html){target="_blank"}
++ [AI Bash - Adobe Experience Platform 애플리케이션 및 Campaign에서 AI 어시스턴트 기능 활용하기](https://experienceleague.adobe.com/ko/docs/events/experience-league-live-recordings/episodes/exl-live-episode-09-26-24)

@@ -11,9 +11,9 @@ last-substantial-update: 2024-09-11T00:00:00Z
 hidefromtoc: false
 hide: false
 source-git-commit: 6104839cdc0007219afecfd651bb55edf1aff3e2
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '99'
-ht-degree: 80%
+ht-degree: 100%
 
 ---
 
@@ -26,4 +26,4 @@ Campaign - Content Accelerator에서 AI 어시스턴트를 사용하여 타깃 �
 
 ## 추가 리소스
 
-* Experience League LIVE: [AI Bash - Adobe Experience Platform 애플리케이션 및 캠페인에서 AI Assistant의 기능 해제](https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-09-26-24)
+* Experience League LIVE: [AI Bash - Adobe Experience Platform 애플리케이션 및 Campaign에서 AI 어시스턴트 기능 활용하기](https://experienceleague.adobe.com/ko/docs/events/experience-league-live-recordings/episodes/exl-live-episode-09-26-24)
