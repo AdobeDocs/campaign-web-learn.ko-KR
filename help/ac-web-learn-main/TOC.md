@@ -5,10 +5,10 @@ user-guide-title: Adobe Campaign Web 사용자 인터페이스
 user-guide-description: Adobe Campaign Web 사용자 인터페이스의 기능을 사용하는 방법을 알아봅니다.
 breadcrumb-title: Web 사용자 인터페이스 - 튜토리얼
 auto-video-transcripts: true
-source-git-commit: 3dd71a4f48ce20b2118806120baba50c6a6429aa
+source-git-commit: 9869357b23d4fee7ec0a9ae7fa1806d0857d9630
 workflow-type: tm+mt
-source-wordcount: '165'
-ht-degree: 97%
+source-wordcount: '167'
+ht-degree: 96%
 
 ---
 
@@ -28,7 +28,7 @@ ht-degree: 97%
    + [Campaign - Content Accelerator의 AI 어시스턴트로 콘텐츠 만들기](/help/design-the-delivery/create-content-with-the-ai-assistant-content-accelerator.md)
    + [다이렉트 메일 게재 만들기](/help/design-the-delivery/create-a-direct-mail-delivery.md)
 + 콘텐츠 관리 {#content-management}
-   + [다이내믹 콘텐츠를 사용하여 전송 기능 향상](/help/design-the-delivery/enhance-a-delivery-with-dynamic-content.md)
+   + [다이내믹 콘텐츠를 사용하여 게재 기능 향상](/help/design-the-delivery/enhance-a-delivery-with-dynamic-content.md)
 + 프로필 및 대상자 {#profiles-and-audiences}
    + [프로필 탐색](/help/profiles-and-audiences/explore-profiles.md)
    + [테스트 프로필 만들기 및 관리](/help/profiles-and-audiences/create-and-manage-test-profiles.md)
