@@ -6,9 +6,9 @@ user-guide-description: Adobe Campaign Web 사용자 인터페이스의 기능�
 breadcrumb-title: Web 사용자 인터페이스 - 튜토리얼
 auto-video-transcripts: true
 source-git-commit: 9869357b23d4fee7ec0a9ae7fa1806d0857d9630
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '167'
-ht-degree: 96%
+ht-degree: 100%
 
 ---
 
@@ -26,9 +26,9 @@ ht-degree: 96%
    + [이메일 게재 미리 보기 및 교정](/help/deliveries/preview-and-proof-an-email-delivery.md)
    + [콘텐츠 어시스턴트로 이메일 콘텐츠를 만들고 개선하기](/help/design-the-delivery/create-and-improve-email-content-with-the-content-assistant.md)
    + [Campaign - Content Accelerator의 AI 어시스턴트로 콘텐츠 만들기](/help/design-the-delivery/create-content-with-the-ai-assistant-content-accelerator.md)
-   + [다이렉트 메일 게재 만들기](/help/design-the-delivery/create-a-direct-mail-delivery.md)
+   + [다이렉트 메일(DM) 게재 만들기](/help/design-the-delivery/create-a-direct-mail-delivery.md)
 + 콘텐츠 관리 {#content-management}
-   + [다이내믹 콘텐츠를 사용하여 게재 기능 향상](/help/design-the-delivery/enhance-a-delivery-with-dynamic-content.md)
+   + [다이내믹 콘텐츠로 게재 향상](/help/design-the-delivery/enhance-a-delivery-with-dynamic-content.md)
 + 프로필 및 대상자 {#profiles-and-audiences}
    + [프로필 탐색](/help/profiles-and-audiences/explore-profiles.md)
    + [테스트 프로필 만들기 및 관리](/help/profiles-and-audiences/create-and-manage-test-profiles.md)
