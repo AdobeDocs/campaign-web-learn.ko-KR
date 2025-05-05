@@ -22,4 +22,4 @@ Adobe Campaign에서 캠페인을 만들 때 전송하는 메시지 내에 다�
 
 클라이언트 콘솔에서 테스트 프로필을 만드는 방법과 Adobe Campaign 웹 UI에서 프로필을 관리하고 편집하는 방법을 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3442844/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3442902/?learn=on&enablevpops&captions=kor)

@@ -20,4 +20,4 @@ ht-degree: 0%
 
 HTML을 업로드하여 이메일을 만드는 방법, 이메일 디자이너와 호환되도록 하는 방법 및 템플릿으로 변환하는 방법에 대해 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3427633/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3447039/?learn=on&captions=kor)

@@ -20,6 +20,6 @@ ht-degree: 0%
 
 이메일 게재를 처음부터 새로 만들고, 대상자를 정의하고, 콘텐츠를 디자인하고, 미리 보기를 시뮬레이션하고, 증명을 보내는 방법을 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3425866/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3454012/?learn=on&captions=kor)
 
 이 기능에 대한 자세한 내용은 [제품 설명서](https://experienceleague.adobe.com/docs/campaign-web/v8/msg/gs-deliveries.html?lang=ko)를 참조하십시오.

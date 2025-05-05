@@ -20,6 +20,6 @@ ht-degree: 32%
 
 대상을 빌드 및 관리하고, 게재할 대상을 선택하고, 컨트롤 그룹을 정의하는 방법에 대해 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3425861/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3453209/?learn=on&captions=kor)
 
 이 기능에 대한 자세한 내용은 [제품 설명서](https://experienceleague.adobe.com/docs/campaign-web/v8/audiences/audiences/create-audience.html?lang=ko)를 참조하십시오.

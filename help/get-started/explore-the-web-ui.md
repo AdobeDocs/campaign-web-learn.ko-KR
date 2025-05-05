@@ -20,6 +20,6 @@ ht-degree: 100%
 
 Campaign Web 사용자 인터페이스에 액세스하고 탐색하는 방법과 인벤토리 목록을 사용자 정의하는 방법을 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3427278/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3453429/?learn=on&captions=kor)
 
 Campaign v8 웹 사용자 인터페이스를 탐색하는 방법에 대한 자세한 내용은 [Adobe Campaign Web 시작하기](https://experienceleague.adobe.com/docs/campaign-web/v8/start/get-started.html?lang=ko)를 참조하십시오.

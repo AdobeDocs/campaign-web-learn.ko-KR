@@ -20,7 +20,7 @@ ht-degree: 43%
 
 워크플로우의 작동 방식과 타겟팅 워크플로우를 만드는 방법을 이해합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3425873/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3453979/?learn=on&captions=kor)
 
 
 이 기능에 대한 자세한 내용은 [제품 설명서](https://experienceleague.adobe.com/docs/campaign-web/v8/wf/gs-workflows.html?lang=ko)를 참조하십시오.
