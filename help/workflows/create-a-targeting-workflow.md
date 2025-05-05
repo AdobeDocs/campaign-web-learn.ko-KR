@@ -23,4 +23,4 @@ ht-degree: 43%
 >[!VIDEO](https://video.tv.adobe.com/v/3425873/?learn=on)
 
 
-이 기능에 대한 자세한 내용은 [제품 설명서](https://experienceleague.adobe.com/docs/campaign-web/v8/wf/gs-workflows.html)를 참조하십시오.
+이 기능에 대한 자세한 내용은 [제품 설명서](https://experienceleague.adobe.com/docs/campaign-web/v8/wf/gs-workflows.html?lang=ko)를 참조하십시오.
