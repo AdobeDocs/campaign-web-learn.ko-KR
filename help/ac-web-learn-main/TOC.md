@@ -37,5 +37,5 @@ ht-degree: 82%
    + [타겟팅 워크플로 만들기](/help/workflows/create-a-targeting-workflow.md)
 + Experience League Live 녹화 {#exl-live-recordings}
    + [새로운 Adobe Campaign 웹 사용자 인터페이스를 발전시키십시오](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-02-29-24.html?lang=ko){target="_blank"}
-+ [Campaign 클라이언트 콘솔 튜토리얼](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/overview.html){target="_blank"}
++ [Campaign 클라이언트 콘솔 튜토리얼](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/overview.html?lang=ko){target="_blank"}
 + [AI Bash - Adobe Experience Platform 애플리케이션 및 Campaign에서 AI 어시스턴트 기능 활용하기](https://experienceleague.adobe.com/ko/docs/events/experience-league-live-recordings/episodes/exl-live-episode-09-26-24)
