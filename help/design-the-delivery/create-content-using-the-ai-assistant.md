@@ -22,7 +22,7 @@ ht-degree: 20%
 
 Adobe의 AI Assistant Content Accelerator를 사용하여 제목 줄, 본문, 이미지 등 마케팅 이메일을 빠르게 생성하고 맞춤화하는 동시에, 일관성과 규정 준수를 위해 브랜드에서 승인한 에셋을 통합하는 방법에 대해 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3463762/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3463771/?learn=on&enablevpops&captions=kor)
 
 ## 추가 리소스
 
