@@ -1,6 +1,6 @@
 ---
-title: 콘텐츠 생성을 위해 AI Assistant를 사용하여 콘텐츠 생성
-description: Adobe의 AI Assistant Content Accelerator를 사용하여 제목 줄, 본문, 이미지 등 마케팅 이메일을 빠르게 생성하고 맞춤화하는 동시에, 일관성과 규정 준수를 위해 브랜드에서 승인한 에셋을 통합하는 방법에 대해 알아봅니다.
+title: 콘텐츠 생성용 AI 어시스턴트를 사용하여 콘텐츠 만들기
+description: Adobe의 AI 어시스턴트 콘텐츠 가속기를 사용하여 제목 줄, 본문 텍스트 및 이미지를 포함하는 마케팅 이메일을 빠르게 생성하고 맞춤 설정하며 일관성과 규정 준수를 위해 브랜드 승인 자산을 통합하는 방법에 대해 알아보십시오.
 feature: Email Design
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
@@ -12,17 +12,17 @@ hidefromtoc: false
 hide: false
 exl-id: 4204e19b-3b4b-42f1-ae60-1c4c6b44039e
 source-git-commit: c0586330363a33e23b77c911c984aece9bb6ae83
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '101'
-ht-degree: 20%
+ht-degree: 100%
 
 ---
 
-# 콘텐츠 생성을 위해 AI Assistant를 사용하여 콘텐츠 생성
+# 콘텐츠 생성용 AI 어시스턴트를 사용하여 콘텐츠 만들기
 
-Adobe의 AI Assistant Content Accelerator를 사용하여 제목 줄, 본문, 이미지 등 마케팅 이메일을 빠르게 생성하고 맞춤화하는 동시에, 일관성과 규정 준수를 위해 브랜드에서 승인한 에셋을 통합하는 방법에 대해 알아봅니다.
+Adobe의 AI 어시스턴트 콘텐츠 가속기를 사용하여 제목 줄, 본문 텍스트 및 이미지를 포함하는 마케팅 이메일을 빠르게 생성하고 맞춤 설정하며 일관성과 규정 준수를 위해 브랜드 승인 자산을 통합하는 방법에 대해 알아보십시오.
 
->[!VIDEO](https://video.tv.adobe.com/v/3463771/?learn=on&enablevpops&captions=kor)
+>[!VIDEO](https://video.tv.adobe.com/v/3463762/?learn=on&enablevpops)
 
 ## 추가 리소스
 
