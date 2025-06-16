@@ -22,7 +22,7 @@ ht-degree: 100%
 
 Adobe의 AI 어시스턴트 콘텐츠 가속기를 사용하여 제목 줄, 본문 텍스트 및 이미지를 포함하는 마케팅 이메일을 빠르게 생성하고 맞춤 설정하며 일관성과 규정 준수를 위해 브랜드 승인 자산을 통합하는 방법에 대해 알아보십시오.
 
->[!VIDEO](https://video.tv.adobe.com/v/3463762/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3463771/?learn=on&enablevpops&captions=kor)
 
 ## 추가 리소스
 
