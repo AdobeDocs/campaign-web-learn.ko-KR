@@ -24,4 +24,4 @@ Adobe Campaign Web v8에서 JavaScript 코드 활동을 효과적으로 사용�
 
 >[!VIDEO](https://video.tv.adobe.com/v/3464918/?learn=on&enablevpops)
 
-이 기능에 관한 자세한 내용은 [제품 설명서](https://experienceleague.adobe.com/en/docs/campaign-web/v8/wf/design-workflows/javascript-code)를 참고하세요.
+이 기능에 관한 자세한 내용은 [제품 설명서](https://experienceleague.adobe.com/ko/docs/campaign-web/v8/wf/design-workflows/javascript-code)를 참고하세요.
