@@ -22,6 +22,6 @@ Adobe Campaign Web v8에서 JavaScript 코드 활동을 효과적으로 사용�
 
 이 자습서에서는 단순 스크립팅 모드와 고급 스크립팅 모드를 모두 다룹니다. 실행 설정 및 오류 처리에 대해 설명합니다. VIP 프로필 타겟팅, 데이터 변환 및 조건부 작업 트리거와 같은 실제 사례를 볼 수 있습니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3464918/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3464926/?learn=on&enablevpops&captions=kor)
 
 이 기능에 관한 자세한 내용은 [제품 설명서](https://experienceleague.adobe.com/ko/docs/campaign-web/v8/wf/design-workflows/javascript-code)를 참고하세요.
