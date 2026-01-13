@@ -20,7 +20,7 @@ ht-degree: 93%
 
 Campaign Web 사용자 인터페이스에 액세스하고 탐색하는 방법과 인벤토리 목록을 사용자 정의하는 방법을 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3427278/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3453429/?captions=kor&learn=on)
 
 **[클릭 가능한 데모](https://app.teamwalnut.com/player/?demoId=08e65781-49bb-41a9-a238-2723a4478015&screenId=03a9500a-8b4f-411c-922f-748ace9c108a&showGuide=true&showGuidesToolbar=true&showHotspots=true&openGuidesToolbar=false)를 사용해 보세요!
 
