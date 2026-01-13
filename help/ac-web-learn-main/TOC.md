@@ -5,10 +5,10 @@ user-guide-title: Adobe Campaign Web 사용자 인터페이스
 user-guide-description: Adobe Campaign Web 사용자 인터페이스의 기능을 사용하는 방법을 알아봅니다.
 breadcrumb-title: Web 사용자 인터페이스 - 튜토리얼
 auto-video-transcripts: true
-source-git-commit: a30c5951a9e7cc4ec1c33e59d59e9bda11c6041f
+source-git-commit: ad2377dde49c1ab0f805c998d407d04ffe659c26
 workflow-type: tm+mt
-source-wordcount: '162'
-ht-degree: 96%
+source-wordcount: '165'
+ht-degree: 95%
 
 ---
 
@@ -19,6 +19,7 @@ ht-degree: 96%
 + 시작하기 {#getting-started}
    + [Adobe Campaign v8 채택 안내서](https://experienceleague.adobe.com/ko/docs/campaign-web/acs-to-ac/home)
    + [Campaign Web 사용자 인터페이스](/help/get-started/explore-the-web-ui.md)
+   + [대화형 데모](https://app.teamwalnut.com/player/?demoId=08e65781-49bb-41a9-a238-2723a4478015&screenId=03a9500a-8b4f-411c-922f-748ace9c108a&showGuide=true&showGuidesToolbar=true&showHotspots=true&openGuidesToolbar=false)
 + 메시지 및 게재 {#messages-and-deliveries}
    + [이메일 게재 만들기](/help/deliveries/create-an-email-delivery.md)
    + [이메일 콘텐츠 처음부터 만들기](/help/design-the-delivery/create-email-content-from-scratch.md)
@@ -34,9 +35,9 @@ ht-degree: 96%
    + [대상자 관리 및 작성](/help/profiles-and-audiences/manage-and-build-audiences.md)
    + [Experience Platform으로 대상자 만들기](/help/profiles-and-audiences/create-an-audience-with-experience-platform.md)
 + 워크플로 {#workflows}
-   + [타기팅 워크플로 만들기](/help/workflows/create-a-targeting-workflow.md)
+   + [타겟팅 워크플로 만들기](/help/workflows/create-a-targeting-workflow.md)
    + [Java 스크립트 코드 활동 구성](/help/workflows/configure-java-script-code-activity.md)
 + Experience League 라이브 녹화본 {#exl-live-recordings}
    + [새로운 Adobe Campaign Web 사용자 인터페이스로 전환](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-02-29-24.html?lang=ko){target="_blank"}
-+ [Campaign 클라이언트 콘솔 튜토리얼](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/overview.html?lang=ko){target="_blank"}
++ [Campaign 클라이언트 콘솔 튜토리얼](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/overview.html){target="_blank"}
 + [AI Bash - Adobe Experience Platform 애플리케이션 및 Campaign에서 AI 어시스턴트 기능 활용하기](https://experienceleague.adobe.com/ko/docs/events/experience-league-live-recordings/episodes/exl-live-episode-09-26-24)
