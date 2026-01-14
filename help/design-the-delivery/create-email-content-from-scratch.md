@@ -20,7 +20,7 @@ ht-degree: 100%
 
 이메일 디자이너를 탐색하는 방법을 이해합니다. 이메일의 구조를 처음부터 만들고 디자인하는 방법, 이메일을 개인화하고 테스트하는 방법에 대해 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3453572/?learn=on&captions=kor)
+>[!VIDEO](https://video.tv.adobe.com/v/3425867/?learn=on)
 
 >[!NOTE]
 >
