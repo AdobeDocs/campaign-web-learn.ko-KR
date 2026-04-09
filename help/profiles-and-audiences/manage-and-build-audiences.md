@@ -20,6 +20,6 @@ ht-degree: 100%
 
 대상자를 작성 및 관리하는 방법, 게재할 대상자를 선택하는 방법, 컨트롤 그룹을 정의하는 방법을 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3425861/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3453209/?captions=kor&learn=on)
 
 이 기능에 대한 자세한 내용은 [제품 설명서](https://experienceleague.adobe.com/ko/docs/campaign-web/v8/audiences/audiences/create-audience)를 참조하십시오.

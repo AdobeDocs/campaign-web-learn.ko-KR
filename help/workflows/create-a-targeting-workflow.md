@@ -20,7 +20,7 @@ ht-degree: 100%
 
 워크플로의 작동 방식과 타기팅 워크플로를 만드는 방법을 이해합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3425873/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3453979/?captions=kor&learn=on)
 
 
 이 기능에 대한 자세한 내용은 [제품 설명서](https://experienceleague.adobe.com/ko/docs/campaign-web/v8/wf/gs-workflows)를 참조하십시오.
