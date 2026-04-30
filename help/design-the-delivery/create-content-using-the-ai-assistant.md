@@ -8,10 +8,8 @@ jira: KT-16191
 doc-type: Feature Video
 duration: 206
 last-substantial-update: 2025-06-09T00:00:00Z
-hidefromtoc: false
-hide: false
 exl-id: 4204e19b-3b4b-42f1-ae60-1c4c6b44039e
-source-git-commit: f386fd9b65ea1f2db4817a1a8519d3d24633bbb9
+source-git-commit: e7356ef028111687eeebb8a1d7e1e0f58de37e05
 workflow-type: tm+mt
 source-wordcount: '116'
 ht-degree: 100%
@@ -22,7 +20,7 @@ ht-degree: 100%
 
 Adobe의 AI 어시스턴트 콘텐츠 가속기를 사용하여 제목 줄, 본문 텍스트 및 이미지를 포함하는 마케팅 이메일을 빠르게 생성하고 맞춤 설정하며 일관성과 규정 준수를 위해 브랜드 승인 자산을 통합하는 방법에 대해 알아보십시오.
 
->[!VIDEO](https://video.tv.adobe.com/v/3463771/?captions=kor&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3463762/?learn=on&enablevpops)
 
 ## 추가 리소스
 
