@@ -2,23 +2,24 @@
 cloud: Experience Cloud
 version: Campaign v8, Campaign v8 Web User Interface
 solution: Campaign, Campaign v8, Campaign v8 Web User Interface
+product_v2: id: dfc56824-e8b9-499e-85d4-21aedb507314id: d0e9f0b2-1f2b-4134-9844-49cd4e950f27id: ccdd4c6f-8203-4e89-85f0-79883f86f5fd
 product: adobe campaign-web
 feature-set: Campaign
 landing-page-name: campaign
 landing-page-breadcrumb-title: Campaign
 type: Tutorial
 index: true
-git-repo: https://github.com/AdobeDocs/campaign-web-learn.ko-KR
-source-git-commit: d17df713a0b3dd4c834f10dfb20c2fea803b0cf5
+git-repo: https://github.com/AdobeDocs/campaign-web-learn.en
+source-git-commit: 1401229e16f3018432abf391e825a40b8af73d32
 workflow-type: tm+mt
-source-wordcount: '70'
-ht-degree: 0%
+source-wordcount: 70
+ht-degree: 74%
 
 ---
 
 
-# 내부 사용을 위한 메타데이터
+# 내부용 메타데이터
 
-metadata.md 파일에는 리포지토리의 사용 안내서 TOC.md 파일에 전달되는 리포지토리 수준 메타데이터가 포함되어 있습니다. 사용 안내서의 metadata.md 콘텐츠를 변경하려면 TOC.md 파일에서 이 작업을 수행합니다.
+metadata.md 파일에는 리포지토리의 사용 안내서 TOC.md 파일에 전달되는 리포지토리 수준 메타데이터가 포함되어 있습니다. 사용 안내서의 metadata.md 내용을 변경하려면 TOC.md 파일에서 이 작업을 수행하세요.
 
-**솔루션**, **제품** 및 **유형**&#x200B;에 대한 올바른 값 목록은 [메타데이터](https://experienceleague.adobe.com/docs/authoring-guide-exl/using/editing/user-guide-setup/metadata.html)를 참조하십시오.
+**솔루션**, **제품**, **유형**&#x200B;에 대한 유효 값 목록은 [메타데이터](https://experienceleague.adobe.com/docs/authoring-guide-exl/using/editing/user-guide-setup/metadata.html)를 참조하십시오.
