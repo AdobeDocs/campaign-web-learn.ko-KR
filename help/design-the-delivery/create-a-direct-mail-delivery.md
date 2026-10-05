@@ -43,6 +43,6 @@ DM(다이렉트 메일)은 엽서, 전단지, 카탈로그와 같은 개인 맞�
 
 Adobe Campaign v8 웹 사용자 인터페이스에서 다이렉트 메일 게재를 만드는 방법에 대해 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3433316/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3451790/?captions=kor&learn=on)
 
 자세한 내용은 [Campaign Web 사용자 인터페이스 제품 설명서](https://experienceleague.adobe.com/ko/docs/campaign-web/v8/msg/direct-mail/gs-direct-mail)를 참조하십시오.
